@@ -1,3 +1,3 @@
 # BDC-23
 
-Demi apa yang telah tersampaikan tapi tidak mungkin diungkapkan
+Demi apa yang telah diungkapkan namun sulit untuk disampaikan

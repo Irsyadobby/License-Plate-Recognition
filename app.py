@@ -22,7 +22,7 @@ if CFG_ENABLE_URL_DOWNLOAD:
     url = "https://archive.org/download/yoloTrained/yoloTrained.pt"
 # End of Configurations
 
-model = YOLO('models/best submit 2.pt')
+model = YOLO('model/best V5s.pt')
 
 def imageInput(model, src):
 

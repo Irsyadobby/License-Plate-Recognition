@@ -5,7 +5,6 @@ from io import *
 import glob
 from datetime import datetime
 import os
-import wget
 import matplotlib.pyplot as plt
 import json
 from ultralytics import YOLO

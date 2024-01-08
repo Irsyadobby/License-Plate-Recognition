@@ -21,7 +21,7 @@ if CFG_ENABLE_URL_DOWNLOAD:
     url = "https://archive.org/download/yoloTrained/yoloTrained.pt"
 # End of Configurations
 
-model = YOLO('models/best.pt')
+model = YOLO('model/best.pt')
 
 # Initialize Session State
 if 'results_df' not in st.session_state:

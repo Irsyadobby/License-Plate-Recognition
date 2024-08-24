@@ -1,7 +1,7 @@
 # Big Data Challenge 2023 - License Plate Recognition using YOLOV5
 
 ## Object Detection
-![Alt text](License-Plate-Recognition-YOLOv5/assets/Object Detection Ilustration.png)
+![Alt text]([License-Plate-Recognition-YOLOv5/assets/Object Detection Ilustration.png](https://github.com/Irsyadobby/License-Plate-Recognition-YOLOv5/blob/main/assets/Object%20Detection%20Ilustration.png))
 
 Object detection merupakan teknik dalam pengolahan citra dan penglihatan komputer untuk mengidentifikasi dan melokalisasi objek-objek tertentu dalam gambar atau video. Tujuan utama dari object detection adalah mengenali dan menempatkan kotak pembatas (bounding box) di sekitar objek-objek yang ada dalam gambar. Teknik ini menggabungkan konsep dari deteksi objek (mengenali objek mana yang ada) dan segmentasi semantik (mengenali di mana objek tersebut berada).
 

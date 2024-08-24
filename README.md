@@ -13,3 +13,6 @@ Salah satu pemanfaaatan object detection yang umum digunakan adalah pengidentifi
 Model yang digunakan pada penelitian ini adalah YOLO Version 5X (YOLOv5x). YOLOv5xu dirancang untuk memberikan efisiensi tinggi dalam melakukan deteksi plat nomor. Dengan pendekatan deteksi dalam satu tahap, model ini dapat mengidentifikasi lokasi dan kelas plat nomor dengan cepat tanpa memerlukan tahap tambahan. Model ini juga mampu melakukan deteksi pada berbagai skala objek. Hal ini sangat berguna dalam deteksi plat nomor pada kendaraan dengan ukuran yang beragam, baik dari jarak dekat maupun jauh. Dengan didukung oleh penggunaan teknologi terkini, YOLOv5xu memiliki tingkat akurasi yang tinggi dalam mengenali plat nomor. Hal ini memungkinkan model untuk mengatasi tantangan seperti pencahayaan yang berbeda, variasi posisi kendaraan, dan perubahan sudut pandang.
 
 YOLOv5xu dapat diadaptasi untuk berbagai aplikasi yang memerlukan deteksi plat nomor, seperti sistem pengawasan lalu lintas, pemantauan parkir otomatis, dan keamanan. Dengan demikian, website ini hadir dengan teknik YOLOv5xu untuk deteksi plat nomor kendaraan yang dapat memberikan hasil deteksi yang konsisten dan handal pada berbagai situasi.
+
+## Deployment
+

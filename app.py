@@ -199,7 +199,7 @@ def main():
 
     st.set_page_config(initial_sidebar_state = 'collapsed')
 
-    st.title("Big Data Challenge Model Deployment")
+    st.title("License Plate Number Recognition")
 
     tab1, tab2 = st.tabs(["Model Description", "Prediction"])
 

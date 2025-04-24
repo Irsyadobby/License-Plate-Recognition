@@ -15,7 +15,7 @@ Model yang digunakan pada penelitian ini adalah YOLO Version 5X (YOLOv5x). YOLOv
 YOLOv5xu dapat diadaptasi untuk berbagai aplikasi yang memerlukan deteksi plat nomor, seperti sistem pengawasan lalu lintas, pemantauan parkir otomatis, dan keamanan. Dengan demikian, website ini hadir dengan teknik YOLOv5xu untuk deteksi plat nomor kendaraan yang dapat memberikan hasil deteksi yang konsisten dan handal pada berbagai situasi.
 
 ## Deployment
-Penjelasan ttg deployment di streamlit...
+Anda bisa menjalankan aplikasi ini pada perangkat lokal anda dengan cara berikut :
 
 ### Local Use
 1. Install package yang diperlukan

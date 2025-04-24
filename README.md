@@ -1,4 +1,4 @@
-# Big Data Challenge 2023 - License Plate Recognition using YOLOV5
+# License Plate Recognition using YOLOV5
 
 ## Object Detection
 ![Object Detection Ilustration](https://github.com/user-attachments/assets/19365662-c808-4967-9394-0f194da895c5)
